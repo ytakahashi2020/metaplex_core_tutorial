@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-create_core_asset_example = "7VYB91EAPtxaZfSehC7LCCB8D6FAroeH8ZYsanNZdCvF"
+create_core_asset_example = "D9dejLvL66DFJq52bVE1dNUmdUZkeqNYmcW1sqh4HrVY"
 
 [registry]
 url = "https://api.apr.dev"

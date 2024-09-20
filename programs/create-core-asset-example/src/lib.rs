@@ -6,7 +6,7 @@ use mpl_core::{
     instructions::CreateV2CpiBuilder, 
 };
 
-declare_id!("7VYB91EAPtxaZfSehC7LCCB8D6FAroeH8ZYsanNZdCvF");
+declare_id!("D9dejLvL66DFJq52bVE1dNUmdUZkeqNYmcW1sqh4HrVY");
 
 #[derive(AnchorDeserialize, AnchorSerialize)]
 pub struct CreateAssetArgs {
